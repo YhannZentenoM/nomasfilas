@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">No Mas Filas</string>
+    <string name="title_reg">Registro de Citas</string>
+    <string name="tx_correo">ejemplo@correo.com</string>
+    <string name="tx_pwd">Contraseña</string>
+    <string name="tx_name">Nombres</string>
+    <string name="tx_consul">Consultorio</string>
+    <string name="tx_medico">Medico</string>
+    <string name="tx_fecha">Fecha</string>
+    <string name="tx_hora">Hora</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_registro">Registrar</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="invalid_mail">Ingrese un mail valido</string>
+    <string name="invalid_pass">Ingrese un password mayor a 6 digitos</string>
+    <string name="btn_menu_prox">Próximas CItas</string>
+    <string name="btn_menu_reg">Registrar una Cita</string>
+    <string name="btn_menu_tuto">Ver Tutorial</string>
+    <string name="btn_menu_com">Deja tu Comentario</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_margin="15dp"
+    android:background="#eee"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/txConsulLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:text="Consultorio: "/>
+
+    <TextView
+        android:id="@+id/txConsulView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:layout_toRightOf="@id/txConsulLabel"
+        android:text="XXXXXXX"/>
+
+    <TextView
+        android:id="@+id/txMedLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_below="@id/txConsulLabel"
+        android:text="Médico: "/>
+
+    <TextView
+        android:id="@+id/txMedView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:layout_below="@id/txConsulView"
+        android:layout_toRightOf="@id/txMedLabel"
+        android:text="XXXXXXX"/>
+
+    <TextView
+        android:id="@+id/txFechaLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_below="@id/txMedLabel"
+        android:text="Fecha: "/>
+
+    <TextView
+        android:id="@+id/txFechaView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:layout_below="@id/txMedView"
+        android:layout_toRightOf="@id/txFechaLabel"
+        android:text="XXXXXXX"/>
+
+    <TextView
+        android:id="@+id/txHoraLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_below="@id/txFechaLabel"
+        android:text="Hora: "/>
+
+    <TextView
+        android:id="@+id/txHoraView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:layout_below="@id/txFechaView"
+        android:layout_toRightOf="@id/txHoraLabel"
+        android:text="XXXXXXX"/>
+
+</RelativeLayout>

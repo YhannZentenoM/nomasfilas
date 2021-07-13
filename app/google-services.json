@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "179839216597",
+    "firebase_url": "https://nomasfilas-d5d2f-default-rtdb.firebaseio.com",
+    "project_id": "nomasfilas-d5d2f",
+    "storage_bucket": "nomasfilas-d5d2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179839216597:android:de9ce92fdfe70c14196b5c",
+        "android_client_info": {
+          "package_name": "com.example.nomasfilas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179839216597-lti7uvo084hq75kqvqm06ctpbr3e31m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEwKwkQHcpVTn98PZ6c1XndiEIvzmb7eU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179839216597-lti7uvo084hq75kqvqm06ctpbr3e31m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
